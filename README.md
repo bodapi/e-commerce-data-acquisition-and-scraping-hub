@@ -60,8 +60,8 @@ For each platform, we maintain a dedicated folder containing comprehensive guide
 For high-volume access and customized data scraping solutions, reach out to us:
 
 * Official Website: https://bodapi.com
-* | **Telegram** | [@bodapi_dan] |
-* | **WeChat (微信)** | `daniellehallasgo` |
+* Telegram | [@bodapi_dan]
+* WeChat (微信) | `daniellehallasgo`
 * Email: support@bodapi.com
 
 *Maintained by Bodapi - Empowering Data-Driven Decisions 2026*
