@@ -118,7 +118,7 @@ For high-volume access and customized data scraping solutions, reach out to us:
 *   **Official Website:** [https://bodapi.com](https://bodapi.com)
 *   **Telegram:** @bodapi_dan
 *   **WeChat (微信):** daniellehallasgo
-*   **Email:** support@bodapi.com
+*   **Email:** danielle@bodapi.com
 
 ## ⚖️ License
 
